@@ -17,3 +17,5 @@ or, you have to add `https://package.openupm.com` as a scoped registry with, at 
 ## Usage
 
 Add the ChangePointerStyleHandler on a UI or a GameObject ( if the object has a collider, and the main camera a Physics Raycaster)
+
+Make sure your WebGLTemplate has a unity canvas with ID 'unity-canvas'.
